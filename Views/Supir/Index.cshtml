@@ -1,0 +1,28 @@
+@model IEnumerable<ASPChangTravel.Models.Supir>
+
+@{
+    Layout="_Layout";
+}
+
+
+<table class="table table-stripped"> 
+<tr>
+    <th>ID Supir</th>
+    <th>Nama</th>
+    <th>NO Telp</th>
+    <th>Alamat</th>
+    <th>Tarif</th>
+    
+</tr>
+@foreach (var data in Model)
+{
+    <tr>
+        <td>@data.id_supir</td>
+        <td>@data.nama_sup</td>
+        <td>@data.no_telp_sup</td>
+        <td>@data.alamat</td>
+        <td>@data.tarif_sup</td>
+
+    </tr>
+}
+</table>/

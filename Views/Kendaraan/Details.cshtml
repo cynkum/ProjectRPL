@@ -1,0 +1,47 @@
+@model ASPChangTravel.Models.Kendaraan
+
+@{
+    Layout = "_Layout";
+}
+
+<h2>Detail Kendaraan</h2><br/>
+<a asp-action="Index" class="btn btn-success btn-xs">Tampil Data</a>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    @Html.Raw(ViewData["pesan"])
+}
+<br/><br/>
+</div>
+
+<div class="col-md-6">
+    <form asp-action="Edit">
+       <label asp-for="no_plat" class="control-label">No Plat :</label>
+            <input asp-for="no_plat" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="merk" class="control-label">Merk :/label>
+            <input asp-for="merk" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="tahun" class="control-label">Tahun :    </label>
+            <input asp-for="tahun" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="jenis_kendaraan" class="control-label">Jenis Kendaraan :</label>
+            <input asp-for="jenis_kendaraan" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="jml_muatan" class="control-label">Jumlah Muatan :</label>
+            <input asp-for="jml_muatan" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label asp-for="harga" class="control-label">Harga :</label>
+            <input asp-for="harga" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Submit" class="btn btn-primary"/>
+    </form>
+</div>
+
+    
+      

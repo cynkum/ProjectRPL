@@ -1,0 +1,48 @@
+@model IEnumerable<ASPChangTravel.Models.Kendaraan>
+
+@{
+    Layout="_Layout";
+}
+
+<h2> Daftar Kendaraan Chang Travel</h2>
+<a asp-action="Create" class="btn btn-success btn-xs">Tambah Data</a>
+<div class="row">
+@if(ViewData["pesan"]!=null){
+    @Html.Raw(ViewData["pesan"])
+
+    <form asp-action="Search" class="form-inline">
+        <div class="form-group">
+            <label for="keyword">Masukkan Keyword : </label>
+            <input type="text" name="keyword" placeholder="Masukkan Merk yang dicari" class="form-control"/>
+        </div>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form><br/><br/>
+}
+<br/><br/>
+</div>
+
+
+<table class="table table-stripped"> 
+<tr>
+    <th>no_plat</th>
+    <th>merk</th>
+    <th>tahun</th>
+    <th>jenis kendaraan</th>
+    <th>jumlah kendaraan</th>
+    <th>harga</th>
+</tr>
+@foreach (var data in Model)
+{
+    <tr>
+        <td>@data.no_plat</td>
+        <td>@data.merk</td>
+        <td>@data.tahun</td>
+        <td>@data.jenis_kendaraan</td>
+        <td>@data.jml_muatan</td>
+        <td>@data.harga</td>
+        <td><a asp-action="Details" asp-route-id="@data.no_plat">
+                details</a></td>
+            <td><a asp-action="Delete" asp-route-id="@data.no_plat">delete</a></td>
+    </tr>
+}
+</table>/

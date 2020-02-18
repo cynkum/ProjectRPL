@@ -1,0 +1,142 @@
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csprojAssemblyReference.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CoreCompileInputs.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cs
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfoInputs.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfo.cs
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.deps.json
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.json
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.dev.json
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.dll
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.pdb
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.dll
+D:\Media\Videos\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.input.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.output.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorCoreGenerate.cache
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cs
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CopyComplete
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewImports.g.cshtml.cs
+D:\Media\Videos\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.deps.json
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.json
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.dev.json
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.dll
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csprojAssemblyReference.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CoreCompileInputs.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfoInputs.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.input.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.output.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorCoreGenerate.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewImports.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cache
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\Tugas\Semester 4\Prak RPL\ASPChangTravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CopyComplete
+E:\Tugas\Semester 4\Prak RPL\ChangTravell\Chang%20Travel\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\Tugas\Semester 4\Prak RPL\ChangTravell\Chang%20Travel\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.deps.json
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.json
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.dev.json
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.dll
+E:\ProjekChang\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.csprojAssemblyReference.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CoreCompileInputs.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfoInputs.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfo.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.input.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.output.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorCoreGenerate.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewImports.g.cshtml.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cache
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\ProjekChang\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CopyComplete
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Index.g.cshtml.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Create.g.cshtml.cs
+E:\ProjekChang\obj\Debug\netcoreapp2.2\Razor\Views\Home\HalamanPemesanan.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csprojAssemblyReference.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CoreCompileInputs.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfoInputs.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.deps.json
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.json
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.dev.json
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.dll
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.pdb
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.dll
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.input.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.output.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorCoreGenerate.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\HalamanPemesanan.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewImports.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Create.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Details.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Index.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cache
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cs
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CopyComplete
+E:\Tugas\Semester 4\Prak RPL\Chang\changtravel\obj\Debug\netcoreapp2.2\Razor\Views\Supir\Index.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.csprojAssemblyReference.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CoreCompileInputs.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorAssemblyInfo.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfoInputs.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.AssemblyInfo.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.dll
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.pdb
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.deps.json
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.json
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.runtimeconfig.dev.json
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.dll
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.pdb
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.dll
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\bin\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.input.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.TagHelpers.output.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorCoreGenerate.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Home\HalamanPemesanan.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Home\_ViewImports.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Create.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Details.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Kendaraan\Index.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\Razor\Views\Supir\Index.g.cshtml.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cache
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.RazorTargetAssemblyInfo.cs
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.Views.pdb
+D:\cyn\cynthiaa\kuliah SI\SEMESTER 4\Prak RPL\monicacarista-changtravel-a4c216da5d6e\obj\Debug\netcoreapp2.2\ASPChangTravel.csproj.CopyComplete
